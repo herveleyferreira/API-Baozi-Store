@@ -1,6 +1,7 @@
 # Baozi Store API 🥟
 
 API REST para gerenciamento de clientes, produtos e pedidos da **Baozi Store** — a loja de pãozinho chinês.
+Projeto acadêmico referente a cadeira de Desenvolvimento Web Back-End.
 
 ---
 
